@@ -1,0 +1,13 @@
+   .arc text {
+               font: 100px arial;
+               text-anchor: middle;
+            }
+            
+            .arc path {
+               stroke: white;
+            }
+           
+           .title {
+               fill: green;
+               font-weight: italic;
+            }
